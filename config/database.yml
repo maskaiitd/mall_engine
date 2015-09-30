@@ -1,0 +1,10 @@
+development:
+  adapter: mysql2
+  database: user_database
+  pool: 10
+  reconnect: true
+  timeout: 5000
+  host: localhost
+  username: root
+  password:
+
